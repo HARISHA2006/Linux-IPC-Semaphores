@@ -117,6 +117,8 @@ $ ./sem.o
 ![322712625-6ad57f54-ad05-4e9f-8258-24dca14427c6](https://github.com/HARISHA2006/Linux-IPC-Semaphores/assets/148843830/5c7872ed-8906-4a58-bb76-b6ba9fe2cbb2)
 
 $ ipcs
+
+
 ![322712663-4b615bc9-4ed2-4af0-aac8-a5228c17a9dd](https://github.com/HARISHA2006/Linux-IPC-Semaphores/assets/148843830/9e1fc0f0-d6c8-4db2-b78b-456d8a17e4c4)
 
 
